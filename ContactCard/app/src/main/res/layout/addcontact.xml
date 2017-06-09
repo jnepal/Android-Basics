@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="10dp" android:paddingLeft="10dp"
+    android:background="#ae111111"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Details"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+
+        android:textSize="22sp"/>
+    <!-- Start of LinearLayout 1 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:orientation="horizontal"
+        android:weightSum="4">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:layout_weight="1"/>
+        <EditText
+            android:id="@+id/nameEt"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:inputType="textCapWords"/>
+
+    </LinearLayout><!-- end of Linearlayout 1 -->
+    <!--Start of Linearlayout 2-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal"
+        android:weightSum="4">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Address"
+            android:layout_weight="1"/>
+        <EditText
+            android:id="@+id/addressEt"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:inputType="textCapSentences"/>
+
+    </LinearLayout><!-- end of Linearlayout 2 -->
+    <!--Start of Linearlayout 3-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal"
+        android:weightSum="4">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Phone Number"
+            android:layout_weight="1"/>
+        <EditText
+            android:id="@+id/phnoEt"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:inputType="phone"/>
+
+    </LinearLayout><!-- end of Linearlayout 3 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2"
+        android:orientation="horizontal"
+        android:layout_marginTop="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp">
+
+        <Button
+            android:id="@+id/button2"
+            android:text="Cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+
+        <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:id="@+id/button"
+        android:layout_weight="1" />
+
+    </LinearLayout>
+
+</LinearLayout>

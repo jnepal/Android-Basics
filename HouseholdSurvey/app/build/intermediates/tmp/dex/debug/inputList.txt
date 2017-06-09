@@ -1,0 +1,5 @@
+C:\Users\Sabin\AndroidStudioProjects\HouseholdSurvey\app\build\intermediates\classes\debug
+C:\Users\Sabin\AndroidStudioProjects\HouseholdSurvey\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-80f931b3b46d1910cf722fa387aa37f2729c9eeb.jar
+C:\Users\Sabin\AndroidStudioProjects\HouseholdSurvey\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-a1e3450bd0864711e7084c482a74b946d94587d5.jar
+C:\Users\Sabin\AndroidStudioProjects\HouseholdSurvey\app\build\intermediates\pre-dexed\debug\classes-aeca306a64b91099579ff10c00fed19e232777bf.jar
+C:\Users\Sabin\AndroidStudioProjects\HouseholdSurvey\app\build\intermediates\pre-dexed\debug\classes-694e593efbb8ed707186c9837dd7e636452ace0b.jar

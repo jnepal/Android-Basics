@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#2196F3</color>
+    <color name="blue_inside">#1E88E5</color>
+    <color name="blue_grey">#607D8B</color>
+    <color name="blue_grey_inside">#546E7A</color>
+    <color name="amber">#FF8F00</color>
+    <color name="amber_inside">#FFB300</color>
+    <color name="brown">#5D4037</color>
+    <color name="brown_inside">#795548</color>
+    <color name="green">#2E7D32</color>
+    <color name="green_inside">#1B5E20</color>
+
+    <color name="text_color_light">#ffffff</color>
+    <color name="text_color_dark">#000000</color>
+</resources>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HouseholdSurvey</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="topic">Impact Assessment of Agriculture Information and Communication Centers\' Communication Sources in Agriculture</string>
+
+    <string name="section_a">Section A: Identification</string>
+    <string name="section_b">Section B: Farm Characteristics</string>
+    <string name="section_c">Section C: Radio</string>
+    <string name="section_d">Section D: Television</string>
+    <string name="section_e">Section E: Printed Materials</string>
+    <string name="section_f">Section F: Framework Condition and Others</string>
+
+    <string name="survey_district">Survey District</string>
+    <string name="name">Name:</string>
+    <string name="respondent">Respondent</string>
+    <string name="household_head">Household Head</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="vdc_muni">VDC/Municipality</string>
+    <string name="ward_no">Ward No.</string>
+    <string name="village">Village/Tole</string>
+    <string name="ethnicity">Ethnicity</string>
+
+    <string name="ethnicity_1">Brahmin/Chhetri</string>
+    <string name="ethnicity_2">Janajati/Indigenous/ethnic</string>
+    <string name="ethnicity_3">Madheshi</string>
+    <string name="ethnicity_4">Dalits</string>
+    <string name="ethnicity_5">Others</string>
+    <string name="specify_if_others">Specify If Others</string>
+
+    <string name="education">Educational Status</string>
+    <string name="education_0">Illiterate</string>
+    <string name="education_1">Literate Only</string>
+    <string name="education_2">Primary Level</string>
+    <string name="education_3">Secondary</string>
+    <string name="education_4">Higher Secondary</string>
+    <string name="education_5">College/university</string>
+
+    <string name="age_group">Age Group</string>
+    <string name="no_of_hh">No. of HH members</string>
+    <string name="below_6">Below 6 years</string>
+    <string name="six_14">6-14 years</string>
+    <string name="fifteen_60">15-60 years</string>
+    <string name="above_60">Above 60 years</string>
+
+    <string name="Q_8">Could you please provide me information about your family size?</string>
+    <string name="Q_9">What is your major occupation?</string>
+    <string name="occupation_1">Agriculture</string>
+    <string name="occupation_2">Wage Labour</string>
+    <string name="occupation_3">Trade Business</string>
+    <string name="occupation_4">Service</string>
+    <string name="occupation_5">Study</string>
+    <string name="occupation_6">Other</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!--Farm Characteristics-->
+    <string name="Q_10">Do you have cultivated land?</string>
+    <string name="Q_11">If Yes, What is the total cultivable land?</string>
+    <string name="Q_12">Do you own or rent for this land?</string>
+    <string name="Q_13">How much land do you have with year round irrigation?</string>
+    <string name="Q_14">What are the sources of information for the adoption of technology?</string>
+    <string name="Q_15">Of those different sources of information, what source provided the most useful advice?</string>
+    <string name="Q_16">Why was the source most useful?</string>
+
+    <!--Radio-->
+    <string name="Q_17">Do you have working radio at your home?</string>
+    <string name="Q_18">Do you listen agricultural program in radio last month?</string>
+    <string name="Q_19">How often do you listen to the Radio Nepal/FM?</string>
+    <string name="Q_20">Do you know timing of broadcasting the agricultural program in radio Nepal?(6:40-6:55PM)</string>
+    <string name="Q_21">Which program(s) do you listen in radio Nepal?</string>
+    <string name="Q_22">Which topics did you used to listen or which information was received from listening agricultural program in radio?</string>
+    <string name="Q_23">Have your ever discuss the materials presented through agricultural program in Radio with other family member?</string>
+    <string name="Q_24">How can you rate hte quality of services compared to old services through radio?</string>
+    <string name="Q_25">Are you satisfied with the content of broadcasting materials the agricultural program in radio?</string>
+    <string name="Q_26">Do you adopt any new technology through listening agricultural program in Radio?</string>
+    <string name="Q_27">Is the agricultural program through radio relevant in disseminating agricultural extension service/technology?</string>
+    <string name="Q_28">Do you often listen agricultural program in radio from regional broadcasting and in FM</string>
+    <string name="Q_29">Is the spoken language clear in agricultural program in regional broadcasting and FM radio?</string>
+    <string name="Q_30">Is the time of broadcasting the agricultural program appropriate and convenient for you?</string>
+    <string name="Q_31">If not, which time do you prefer the most?</string>
+    <string name="Q_32">Why don\'t you listen agricultural program in radio?</string>
+    <string name="Q_33">Do you think, is it necessary to revise the agricultural program from Radio?</string>
+    <string name="Q_34">What can be done to improve the accessibility/regularity of agricultural program in Radio?</string>
+
+    <!--TV-->
+    <string name="Q_35">Do you have working TV at you home?</string>
+    <string name="Q_36">How often do you listen to the NTV?</string>
+    <string name="Q_37">Which program do you mostly watch in NTV?</string>
+    <string name="Q_38">Do you often listen agricultural program in Tv</string>
+    <string name="Q_39">Do you know timing of broadcasting the agricultural program in NTV?</string>
+    <string name="Q_40">Which program(s) do you listen in Nepal?</string>
+    <string name="Q_41">Which topics did you use to watch or which information was received from watching the agricultural program in NTV?</string>
+    <string name="Q_42">Have your ever discuss the materials presented through agricultural program in NTV with other family members?</string>
+    <string name="Q_43">How can you rate the quality of services compared to old services through TV?</string>
+    <string name="Q_44">Are you satisfied with the content of broadcasting materials with the agricultural program in NTV?</string>
+    <string name="Q_45">Do you adopt any new technology through agriculture program in NTV?</string>
+    <string name="Q_46">Is the agricultural program through TV relevant in disseminating agricultural extension service/technology?</string>
+    <string name="Q_47">Do you think the experience fo listening/watching TV make you try more new technology for agricultural production?</string>
+    <string name="Q_48">Do you often listen agricultural program in from regional NTV broadcasting?</string>
+    <string name="Q_49">Is the spoken language clear in agricultural program in regional NTV broadcasting?</string>
+    <string name="Q_50">Is the timing of broadcasting the agricultural program appropriate and convenient for you?</string>
+    <string name="Q_51">If not, why?</string>
+    <string name="Q_52">Which time do you prefer the most?</string>
+    <string name="Q_53">Is the duration of broadcasting sufficient for you?</string>
+    <string name="Q_54">If No, how much time is suitable for broadcasting the agricultural program in NTV? (in Minutes)</string>
+    <string name="Q_55">Why don\'t you watch agricultural program in TV?</string>
+    <string name="Q_56">Do you think, is it necessary to revise the agricultural program from NTV?</string>
+    <string name="Q_57">What can be done to improve the accessibility/regularity of agricultural program in TV?</string>
+    <!--section e:printed materials-->
+    <string name="Q_58">Have you ever received any publication from AICC at your home?</string>
+    <string name="Q_59">Have you ever read booklet, leaflet, bi-monthly magazine published materials?</string>
+    <string name="Q_60">Could you please rate the extent of reading in these printed Materials?</string>
+    <string name="Q_61">From where you could receive these materials?</string>
+    <string name="Q_62">Which printed materials do you mostly read?</string>
+    <string name="Q_63">How often do you read these materials?</string>
+    <string name="Q_64">Which topics did you use to watch or which information was received from these printed materials?</string>
+    <string name="Q_65">Have your ever discuss the materials presented through agricultural program in printed materials with other family members?</string>
+    <string name="Q_66">How can you rate the quality of services compared to old services through these magazines?</string>
+    <string name="Q_67">Are you satisfied with the content of broadcasting materials the agricultural news in these printed materials?</string>
+    <string name="Q_68">Do you adopt any new technology through reading printed materials?</string>
+    <string name="Q_69">Is this agricultural program relevant in disseminating agricultural extension service/technology?</string>
+    <string name="Q_70">Do you think the experience of 1 listening make you try more new technology for agricultural production?</string>
+    <string name="Q_71">Do you often read agricultural program in form region or district level?</string>
+    <string name="Q_72">Is the language or content of these materials appropriate and convenient for you?</string>
+    <string name="Q_73">If not, why?</string>
+    <string name="Q_74">Which language odo you prefer the most?</string>
+    <string name="Q_75">Is the time of publication suit for you?</string>
+    <string name="Q_76">Why don\'t you read agricultural program in printed materials?</string>
+    <string name="Q_77">Do you think, is it necessary to revise the agricultural program from the materials?</string>
+    <string name="Q_78">What can be done to improve the accessibility?regularity of these materials?</string>
+
+    <string name="Q_79">Do you attend education meetings on agricultural extension services related issues in last year></string>
+    <string name="Q_80">In general, when you have a question about farming, who are you most likely to ask?</string>
+    <string name="Q_81">Who takes decision on agricultural activities at your home?</string>
+    <string name="Q_82">At last, do you like to give any suggestion/comments on?</string>
+
+    <string name="yes_how_many_times">If Yes, How many times?</string>
+
+    <string name="sun">Sunday</string>
+    <string name="mon">Monday</string>
+    <string name="tue">Tuesday</string>
+    <string name="wed">Wednesday</string>
+    <string name="thu">Thursday</string>
+    <string name="fri">Friday</string>
+    <string name="sat">Saturday</string>
+
+    <string name="radio_program_1">Agricultural news, Agricultural Activities</string>
+    <string name="radio_program_2">Successful Story</string>
+    <string name="radio_program_3">Discussion (Cooperatives and nutrition)</string>
+    <string name="radio_program_4">Interview (Farmers and Agri expert)</string>
+    <string name="radio_program_5">Agricultural technology and irrigation</string>
+    <string name="radio_program_6">JTA and Old women</string>
+    <string name="radio_program_7">Radio news and others</string>
+
+    <string name="tv_program_1">Discussion of Agricultural Issues</string>
+    <string name="tv_program_2">Success Story</string>
+    <string name="tv_program_3">Farmers\' Problems and Technicians\'s Reply</string>
+    <string name="tv_program_4">Agriculture Technology and irrigation</string>
+    <string name="tv_program_5">Farmers Concern</string>
+    <string name="tv_program_6">Agricultural News</string>
+    <string name="tv_program_7">Agricultural Teleserial</string>
+
+    <string name="program_type_1">Seed varieties</string>
+    <string name="program_type_2">Latest agricultural technology</string>
+    <string name="program_type_3">Access to agric. credit and loan</string>
+    <string name="program_type_4">Post-harvest management</string>
+    <string name="program_type_5">Disease and Pest Control</string>
+    <string name="program_type_6">Sales and marketing</string>
+    <string name="program_type_7">Fertilizer use</string>
+    <string name="program_type_8">Others</string>
+
+    <string name="pm_mostly_read_1">Booklets</string>
+    <string name="pm_mostly_read_2">Leaflets</string>
+    <string name="pm_mostly_read_3">Bimonthly Magazines</string>
+    <string name="pm_mostly_read_4">Calendar</string>
+    <string name="pm_mostly_read_5">Agriculture Diary</string>
+    <string name="pm_mostly_read_6">Other Materials, occasional newsletters, annual reports</string>
+
+    <string name="pm_question_abt_framing_1">ASC</string>
+    <string name="pm_question_abt_framing_2">Farming Groups</string>
+    <string name="pm_question_abt_framing_3">Agro-Vet</string>
+    <string name="pm_question_abt_framing_4">Seed Company</string>
+    <string name="pm_question_abt_framing_5">Retail shop owner</string>
+    <string name="pm_question_abt_framing_6">Relative</string>
+    <string name="pm_question_abt_framing_7">Other farmer (non-relative)</string>
+    <string name="pm_question_abt_framing_8">TV/Radio</string>
+    <string name="pm_question_abt_framing_9">Cooperative</string>
+    <string name="pm_question_abt_framing_10">Other (Specify)</string>
+
+    <string name="action_clear_text">Are you sure you want to clear?</string>
+    <string name="action_delete_text">Are you sure you want to delete?</string>
+
+    <string name="clear">Clear</string>
+    <string name="delete">Delete</string>
+
+</resources>

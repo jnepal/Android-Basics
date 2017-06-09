@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--section b: Farm Characteristics-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/blue_grey"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    >
+    <TextView
+        style="@style/TitleText"
+        android:text="@string/section_b"
+        android:textAllCaps="true"
+        />
+
+    <TextView
+        style="@style/NormalText"
+        android:text="@string/Q_10"
+        />
+    <RadioGroup
+        android:id="@+id/cultivableLandRG"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <RadioButton
+            android:id="@+id/cultivableLandYesRb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/yes"
+            />
+        <RadioButton
+            android:id="@+id/cultivableLandNoRb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/no"
+            />
+    </RadioGroup>
+    <!--Q11-->
+    <TextView
+        style="@style/NormalText"
+        android:text="@string/Q_11"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <EditText
+            android:id="@+id/cultivableLandEt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="40dp"
+            android:inputType="numberDecimal"
+            />
+        <Spinner
+            android:id="@+id/cultivableLandUnitS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/land_unit"
+            />
+    </LinearLayout>
+    <!--Q12-->
+    <TextView
+        style="@style/NormalText"
+        android:text="@string/Q_12"
+        />
+
+    <Spinner
+        android:id="@+id/ownershipOfLandS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:entries="@array/land_ownership"
+        />
+
+    <!--Q13-->
+    <TextView
+        style="@style/NormalText"
+        android:text="@string/Q_13" />
+
+    <EditText
+        android:id="@+id/irrigationLandEt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="80dp"
+        android:inputType="numberDecimal"
+        />
+    <!--Q14-->
+    <TextView
+        style="@style/NormalText"
+        android:text="@string/Q_14"
+        />
+
+    <Spinner
+        android:id="@+id/sourceOfInfoS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:entries="@array/sources_of_info"
+        />
+    <!--Q15-->
+    <TextView
+        style="@style/NormalText"
+        android:text="@string/Q_15"
+        />
+
+    <Spinner
+        android:id="@+id/sourceWithUsefulAdviceS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:entries="@array/sources_of_info"
+        />
+    <!--Q16-->
+    <TextView
+        style="@style/NormalText"
+        android:text="@string/Q_16" />
+
+    <EditText
+        android:id="@+id/mostUsefulSourceEt"
+        android:layout_width="match_parent"
+        android:minHeight="50dp"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>

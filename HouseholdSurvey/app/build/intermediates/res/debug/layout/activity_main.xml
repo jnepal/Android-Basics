@@ -1,0 +1,41 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+        <include layout="@layout/section_a"/>
+        <include layout="@layout/section_b"/>
+        <include layout="@layout/section_c"/>
+        <include layout="@layout/section_d"/>
+        <include layout="@layout/section_e"/>
+        <include layout="@layout/section_f"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2"
+            >
+            <Button
+                android:id="@+id/addBtn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Add"
+                android:layout_weight="1"
+                android:onClick="btnClick"
+                />
+            <Button
+                android:id="@+id/clearBtn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Clear"
+                android:layout_weight="1"
+                android:onClick="btnClick"
+                />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView><!-- From: file:/C:/Users/Sabin/AndroidStudioProjects/HouseholdSurvey/app/src/main/res/layout/activity_main.xml -->

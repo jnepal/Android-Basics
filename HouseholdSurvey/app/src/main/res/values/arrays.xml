@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="district">
+        <item>Darchula</item>
+        <item>Baitadi</item>
+        <item>Dailekh</item>
+        <item>Kailali</item>
+        <item>Surkhet</item>
+    </string-array>
+    <string-array name="land_unit">
+        <item>Bigha</item>
+        <item>Katha</item>
+        <item>Ropani</item>
+        <item>Hall</item>
+        <item>Dhur</item>
+        <item>Ana</item>
+    </string-array>
+    <string-array name="land_ownership">
+        <item>Own</item>
+        <item>Leased in</item>
+        <item>Rented in</item>
+        <item>Communal land</item>
+    </string-array>
+    <string-array name="sources_of_info">
+        <item>Radio</item>
+        <item>TV in</item>
+        <item>Newspapers printed materials</item>
+        <item>Neighbour Farmers</item>
+        <item>Internet</item>
+        <item>Organizations</item>
+        <item>Agricultural extension workers</item>
+    </string-array>
+    <string-array name="frequency">
+        <item>Everyday</item>
+        <item>Twice in a week</item>
+        <item>Once in a week</item>
+        <item>Once in a month</item>
+        <item>Rarely</item>
+    </string-array>
+    <string-array name="satisfy_level">
+        <item>Highly Satisfied</item>
+        <item>Satisfied</item>
+        <item>Moderately Satisfied</item>
+        <item>Dissatisfied</item>
+    </string-array>
+    <string-array name="relevant">
+        <item>Highly Relevant</item>
+        <item>Relevant</item>
+        <item>Somewhat relevant</item>
+        <item>Irrelevant</item>
+    </string-array>
+    <string-array name="quality_of_service">
+        <item>Far better</item>
+        <item>Better</item>
+        <item>Same</item>
+        <item>Don\'t know</item>
+    </string-array>
+    <string-array name="language_clarity">
+        <item>Very Clear</item>
+        <item>Clear</item>
+        <item>Somewhat Clear</item>
+        <item>Not Clear</item>
+    </string-array>
+
+    <string-array name="program_timing">
+        <item>Early morning</item>
+        <item>Afternoon</item>
+        <item>Late night</item>
+    </string-array>
+
+    <string-array name="why_no_listening_radio_program">
+        <item>Don\'t think it\'s effective</item>
+        <item>Not interested</item>
+        <item>Don\'t have access to radio and radio program</item>
+        <item>Don\'t know what actually is it</item>
+        <item>Not suitable timing</item>
+        <item>Non visible demonstration of agri. program</item>
+    </string-array>
+
+    <string-array name="why_no_listening_tv_program">
+        <item>Don\'t think it\'s effective</item>
+        <item>Not interested</item>
+        <item>Don\'t have access to Tv and TV program</item>
+        <item>Don\'t know what actually is it</item>
+        <item>Not suitable timing</item>
+        <item>No electricity</item>
+    </string-array>
+
+    <string-array name="why_no_read_pm_program">
+        <item>Don\'t think it\'s effective</item>
+        <item>Not interested</item>
+        <item>Don\'t have access to these materials</item>
+        <item>Don\'t know what actually is it</item>
+        <item>Not suitable timing</item>
+        <item>Illiteracy</item>
+    </string-array>
+
+    <string-array name="sufficient_timing">
+        <item>Yes, sufficient</item>
+        <item>No and need to extend the duration</item>
+    </string-array>
+
+    <string-array name="pm_read">
+        <item>Read all</item>
+        <item>About half</item>
+        <item>Some of materials</item>
+        <item>Only few Chapters/titles</item>
+    </string-array>
+    <string-array name="pm_received_from">
+        <item>Agricultural Group/Cooperatives</item>
+        <item>DADO/ASC</item>
+        <item>AICC</item>
+        <item>Market/bookshop</item>
+        <item>Neighbours/other farmers</item>
+        <item>Agricultural Workers</item>
+    </string-array>
+
+
+    <string-array name="decision_taken_by">
+        <item>Only Male (HH head)</item>
+        <item>Only Female (HH head)</item>
+        <item>Both Male and Female</item>
+    </string-array>
+
+    <string-array name="often_read">
+        <item>Regularly</item>
+        <item>Some times</item>
+        <item>Only few times, occasional</item>
+    </string-array>
+
+    <string-array name="pm_timing_suitable">
+        <item>Yes, suitable</item>
+        <item>No and need to increase the frequency of publication</item>
+    </string-array>
+
+    <string-array name="when_problem_to_ask">
+        <item>ASC</item>
+        <item>Farmer Groups</item>
+        <item>Agro-Vet</item>
+        <item>Seed Company</item>
+        <item>Retail Shop Owner</item>
+        <item>Relative</item>
+        <item>Other Farmers (non - relative)</item>
+        <item>TV/Radio</item>
+        <item>NGO/INGO</item>
+        <item>Cooperative</item>
+        <item>Other (Specify)</item>
+    </string-array>
+
+</resources>
